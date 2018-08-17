@@ -5,5 +5,6 @@ class Test{
 		System.out.println("branch2");
 		System.out.println("branch3");
 		add;
+		add2;
 	}
 }
